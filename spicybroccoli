@@ -1,0 +1,533 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-11275461-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-11275461-1');
+</script>
+	<meta name="google-site-verification" content="U0ubY_gzQKlTdlocJbzO_d19DpUqnsB-QOZYJa47xpo" />
+
+
+
+
+	<!--Sitelink searchbox Schema-->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Spicy Broccoli Media",
+  "url": "https://www.spicybroccoli.com/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.spicybroccoli.com/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+	
+<script type="text/javascript">
+    adroll_adv_id = "E75RXUBQRVD3ZMFRMZXCE6";
+    adroll_pix_id = "UTJFIWNOW5B6XDAM6QNH25";
+    adroll_version = "2.0";
+
+    (function(w, d, e, o, a) {
+        w.__adroll_loaded = true;
+        w.adroll = w.adroll || [];
+        w.adroll.f = [ 'setProperties', 'identify', 'track' ];
+        var roundtripUrl = "https://s.adroll.com/j/" + adroll_adv_id
+                + "/roundtrip.js";
+        for (a = 0; a < w.adroll.f.length; a++) {
+            w.adroll[w.adroll.f[a]] = w.adroll[w.adroll.f[a]] || (function(n) {
+                return function() {
+                    w.adroll.push([ n, arguments ])
+                }
+            })(w.adroll.f[a])
+        }
+
+        e = d.createElement('script');
+        o = d.getElementsByTagName('script')[0];
+        e.async = 1;
+        e.src = roundtripUrl;
+        o.parentNode.insertBefore(e, o);
+    })(window, document);
+    adroll.track("pageView");
+</script>
+	
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NMZBZ88');</script>
+<!-- End Google Tag Manager -->
+	
+	
+<!-- TIKTOK -->
+<script>
+!function (w, d, t) {
+  w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};var o=document.createElement("script");o.type="text/javascript",o.async=!0,o.src=i+"?sdkid="+e+"&lib="+t;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(o,a)};
+
+  ttq.load('CA6QDOBC77U5H171KPG0');
+  ttq.page();
+}(window, document, 'ttq');
+</script>
+	
+<meta name="facebook-domain-verification" content="8wigc0t2i1yimyy2ac24cc3ph6lddm" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<meta charset="UTF-8" />
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<script data-cfasync="false" data-no-defer="1" data-no-minify="1" data-no-optimize="1">var ewww_webp_supported=!1;function check_webp_feature(A,e){var w;e=void 0!==e?e:function(){},ewww_webp_supported?e(ewww_webp_supported):((w=new Image).onload=function(){ewww_webp_supported=0<w.width&&0<w.height,e&&e(ewww_webp_supported)},w.onerror=function(){e&&e(!1)},w.src="data:image/webp;base64,"+{alpha:"UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAARBxAR/Q9ERP8DAABWUDggGAAAABQBAJ0BKgEAAQAAAP4AAA3AAP7mtQAAAA=="}[A])}check_webp_feature("alpha");</script><script data-cfasync="false" data-no-defer="1" data-no-minify="1" data-no-optimize="1">var Arrive=function(c,w){"use strict";if(c.MutationObserver&&"undefined"!=typeof HTMLElement){var r,a=0,u=(r=HTMLElement.prototype.matches||HTMLElement.prototype.webkitMatchesSelector||HTMLElement.prototype.mozMatchesSelector||HTMLElement.prototype.msMatchesSelector,{matchesSelector:function(e,t){return e instanceof HTMLElement&&r.call(e,t)},addMethod:function(e,t,r){var a=e[t];e[t]=function(){return r.length==arguments.length?r.apply(this,arguments):"function"==typeof a?a.apply(this,arguments):void 0}},callCallbacks:function(e,t){t&&t.options.onceOnly&&1==t.firedElems.length&&(e=[e[0]]);for(var r,a=0;r=e[a];a++)r&&r.callback&&r.callback.call(r.elem,r.elem);t&&t.options.onceOnly&&1==t.firedElems.length&&t.me.unbindEventWithSelectorAndCallback.call(t.target,t.selector,t.callback)},checkChildNodesRecursively:function(e,t,r,a){for(var i,n=0;i=e[n];n++)r(i,t,a)&&a.push({callback:t.callback,elem:i}),0<i.childNodes.length&&u.checkChildNodesRecursively(i.childNodes,t,r,a)},mergeArrays:function(e,t){var r,a={};for(r in e)e.hasOwnProperty(r)&&(a[r]=e[r]);for(r in t)t.hasOwnProperty(r)&&(a[r]=t[r]);return a},toElementsArray:function(e){return e=void 0!==e&&("number"!=typeof e.length||e===c)?[e]:e}}),e=(l.prototype.addEvent=function(e,t,r,a){a={target:e,selector:t,options:r,callback:a,firedElems:[]};return this._beforeAdding&&this._beforeAdding(a),this._eventsBucket.push(a),a},l.prototype.removeEvent=function(e){for(var t,r=this._eventsBucket.length-1;t=this._eventsBucket[r];r--)e(t)&&(this._beforeRemoving&&this._beforeRemoving(t),(t=this._eventsBucket.splice(r,1))&&t.length&&(t[0].callback=null))},l.prototype.beforeAdding=function(e){this._beforeAdding=e},l.prototype.beforeRemoving=function(e){this._beforeRemoving=e},l),t=function(i,n){var o=new e,l=this,s={fireOnAttributesModification:!1};return o.beforeAdding(function(t){var e=t.target;e!==c.document&&e!==c||(e=document.getElementsByTagName("html")[0]);var r=new MutationObserver(function(e){n.call(this,e,t)}),a=i(t.options);r.observe(e,a),t.observer=r,t.me=l}),o.beforeRemoving(function(e){e.observer.disconnect()}),this.bindEvent=function(e,t,r){t=u.mergeArrays(s,t);for(var a=u.toElementsArray(this),i=0;i<a.length;i++)o.addEvent(a[i],e,t,r)},this.unbindEvent=function(){var r=u.toElementsArray(this);o.removeEvent(function(e){for(var t=0;t<r.length;t++)if(this===w||e.target===r[t])return!0;return!1})},this.unbindEventWithSelectorOrCallback=function(r){var a=u.toElementsArray(this),i=r,e="function"==typeof r?function(e){for(var t=0;t<a.length;t++)if((this===w||e.target===a[t])&&e.callback===i)return!0;return!1}:function(e){for(var t=0;t<a.length;t++)if((this===w||e.target===a[t])&&e.selector===r)return!0;return!1};o.removeEvent(e)},this.unbindEventWithSelectorAndCallback=function(r,a){var i=u.toElementsArray(this);o.removeEvent(function(e){for(var t=0;t<i.length;t++)if((this===w||e.target===i[t])&&e.selector===r&&e.callback===a)return!0;return!1})},this},i=new function(){var s={fireOnAttributesModification:!1,onceOnly:!1,existing:!1};function n(e,t,r){return!(!u.matchesSelector(e,t.selector)||(e._id===w&&(e._id=a++),-1!=t.firedElems.indexOf(e._id)))&&(t.firedElems.push(e._id),!0)}var c=(i=new t(function(e){var t={attributes:!1,childList:!0,subtree:!0};return e.fireOnAttributesModification&&(t.attributes=!0),t},function(e,i){e.forEach(function(e){var t=e.addedNodes,r=e.target,a=[];null!==t&&0<t.length?u.checkChildNodesRecursively(t,i,n,a):"attributes"===e.type&&n(r,i)&&a.push({callback:i.callback,elem:r}),u.callCallbacks(a,i)})})).bindEvent;return i.bindEvent=function(e,t,r){t=void 0===r?(r=t,s):u.mergeArrays(s,t);var a=u.toElementsArray(this);if(t.existing){for(var i=[],n=0;n<a.length;n++)for(var o=a[n].querySelectorAll(e),l=0;l<o.length;l++)i.push({callback:r,elem:o[l]});if(t.onceOnly&&i.length)return r.call(i[0].elem,i[0].elem);setTimeout(u.callCallbacks,1,i)}c.call(this,e,t,r)},i},o=new function(){var a={};function i(e,t){return u.matchesSelector(e,t.selector)}var n=(o=new t(function(){return{childList:!0,subtree:!0}},function(e,r){e.forEach(function(e){var t=e.removedNodes,e=[];null!==t&&0<t.length&&u.checkChildNodesRecursively(t,r,i,e),u.callCallbacks(e,r)})})).bindEvent;return o.bindEvent=function(e,t,r){t=void 0===r?(r=t,a):u.mergeArrays(a,t),n.call(this,e,t,r)},o};d(HTMLElement.prototype),d(NodeList.prototype),d(HTMLCollection.prototype),d(HTMLDocument.prototype),d(Window.prototype);var n={};return s(i,n,"unbindAllArrive"),s(o,n,"unbindAllLeave"),n}function l(){this._eventsBucket=[],this._beforeAdding=null,this._beforeRemoving=null}function s(e,t,r){u.addMethod(t,r,e.unbindEvent),u.addMethod(t,r,e.unbindEventWithSelectorOrCallback),u.addMethod(t,r,e.unbindEventWithSelectorAndCallback)}function d(e){e.arrive=i.bindEvent,s(i,e,"unbindArrive"),e.leave=o.bindEvent,s(o,e,"unbindLeave")}}(window,void 0),ewww_webp_supported=!1;function check_webp_feature(e,t){var r;ewww_webp_supported?t(ewww_webp_supported):((r=new Image).onload=function(){ewww_webp_supported=0<r.width&&0<r.height,t(ewww_webp_supported)},r.onerror=function(){t(!1)},r.src="data:image/webp;base64,"+{alpha:"UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAARBxAR/Q9ERP8DAABWUDggGAAAABQBAJ0BKgEAAQAAAP4AAA3AAP7mtQAAAA==",animation:"UklGRlIAAABXRUJQVlA4WAoAAAASAAAAAAAAAAAAQU5JTQYAAAD/////AABBTk1GJgAAAAAAAAAAAAAAAAAAAGQAAABWUDhMDQAAAC8AAAAQBxAREYiI/gcA"}[e])}function ewwwLoadImages(e){if(e){for(var t=document.querySelectorAll(".batch-image img, .image-wrapper a, .ngg-pro-masonry-item a, .ngg-galleria-offscreen-seo-wrapper a"),r=0,a=t.length;r<a;r++)ewwwAttr(t[r],"data-src",t[r].getAttribute("data-webp")),ewwwAttr(t[r],"data-thumbnail",t[r].getAttribute("data-webp-thumbnail"));for(var i=document.querySelectorAll(".rev_slider ul li"),r=0,a=i.length;r<a;r++){ewwwAttr(i[r],"data-thumb",i[r].getAttribute("data-webp-thumb"));for(var n=1;n<11;)ewwwAttr(i[r],"data-param"+n,i[r].getAttribute("data-webp-param"+n)),n++}for(r=0,a=(i=document.querySelectorAll(".rev_slider img")).length;r<a;r++)ewwwAttr(i[r],"data-lazyload",i[r].getAttribute("data-webp-lazyload"));for(var o=document.querySelectorAll("div.woocommerce-product-gallery__image"),r=0,a=o.length;r<a;r++)ewwwAttr(o[r],"data-thumb",o[r].getAttribute("data-webp-thumb"))}for(var l=document.querySelectorAll("video"),r=0,a=l.length;r<a;r++)ewwwAttr(l[r],"poster",e?l[r].getAttribute("data-poster-webp"):l[r].getAttribute("data-poster-image"));for(var s,c=document.querySelectorAll("img.ewww_webp_lazy_load"),r=0,a=c.length;r<a;r++)e&&(ewwwAttr(c[r],"data-lazy-srcset",c[r].getAttribute("data-lazy-srcset-webp")),ewwwAttr(c[r],"data-srcset",c[r].getAttribute("data-srcset-webp")),ewwwAttr(c[r],"data-lazy-src",c[r].getAttribute("data-lazy-src-webp")),ewwwAttr(c[r],"data-src",c[r].getAttribute("data-src-webp")),ewwwAttr(c[r],"data-orig-file",c[r].getAttribute("data-webp-orig-file")),ewwwAttr(c[r],"data-medium-file",c[r].getAttribute("data-webp-medium-file")),ewwwAttr(c[r],"data-large-file",c[r].getAttribute("data-webp-large-file")),null!=(s=c[r].getAttribute("srcset"))&&!1!==s&&s.includes("R0lGOD")&&ewwwAttr(c[r],"src",c[r].getAttribute("data-lazy-src-webp"))),c[r].className=c[r].className.replace(/\bewww_webp_lazy_load\b/,"");for(var w=document.querySelectorAll(".ewww_webp"),r=0,a=w.length;r<a;r++)e?(ewwwAttr(w[r],"srcset",w[r].getAttribute("data-srcset-webp")),ewwwAttr(w[r],"src",w[r].getAttribute("data-src-webp")),ewwwAttr(w[r],"data-orig-file",w[r].getAttribute("data-webp-orig-file")),ewwwAttr(w[r],"data-medium-file",w[r].getAttribute("data-webp-medium-file")),ewwwAttr(w[r],"data-large-file",w[r].getAttribute("data-webp-large-file")),ewwwAttr(w[r],"data-large_image",w[r].getAttribute("data-webp-large_image")),ewwwAttr(w[r],"data-src",w[r].getAttribute("data-webp-src"))):(ewwwAttr(w[r],"srcset",w[r].getAttribute("data-srcset-img")),ewwwAttr(w[r],"src",w[r].getAttribute("data-src-img"))),w[r].className=w[r].className.replace(/\bewww_webp\b/,"ewww_webp_loaded");window.jQuery&&jQuery.fn.isotope&&jQuery.fn.imagesLoaded&&(jQuery(".fusion-posts-container-infinite").imagesLoaded(function(){jQuery(".fusion-posts-container-infinite").hasClass("isotope")&&jQuery(".fusion-posts-container-infinite").isotope()}),jQuery(".fusion-portfolio:not(.fusion-recent-works) .fusion-portfolio-wrapper").imagesLoaded(function(){jQuery(".fusion-portfolio:not(.fusion-recent-works) .fusion-portfolio-wrapper").isotope()}))}function ewwwWebPInit(e){ewwwLoadImages(e),ewwwNggLoadGalleries(e),document.arrive(".ewww_webp",function(){ewwwLoadImages(e)}),document.arrive(".ewww_webp_lazy_load",function(){ewwwLoadImages(e)}),document.arrive("videos",function(){ewwwLoadImages(e)}),"loading"==document.readyState?document.addEventListener("DOMContentLoaded",ewwwJSONParserInit):("undefined"!=typeof galleries&&ewwwNggParseGalleries(e),ewwwWooParseVariations(e))}function ewwwAttr(e,t,r){null!=r&&!1!==r&&e.setAttribute(t,r)}function ewwwJSONParserInit(){"undefined"!=typeof galleries&&check_webp_feature("alpha",ewwwNggParseGalleries),check_webp_feature("alpha",ewwwWooParseVariations)}function ewwwWooParseVariations(e){if(e)for(var t=document.querySelectorAll("form.variations_form"),r=0,a=t.length;r<a;r++){var i=t[r].getAttribute("data-product_variations"),n=!1;try{for(var o in i=JSON.parse(i))void 0!==i[o]&&void 0!==i[o].image&&(void 0!==i[o].image.src_webp&&(i[o].image.src=i[o].image.src_webp,n=!0),void 0!==i[o].image.srcset_webp&&(i[o].image.srcset=i[o].image.srcset_webp,n=!0),void 0!==i[o].image.full_src_webp&&(i[o].image.full_src=i[o].image.full_src_webp,n=!0),void 0!==i[o].image.gallery_thumbnail_src_webp&&(i[o].image.gallery_thumbnail_src=i[o].image.gallery_thumbnail_src_webp,n=!0),void 0!==i[o].image.thumb_src_webp&&(i[o].image.thumb_src=i[o].image.thumb_src_webp,n=!0));n&&ewwwAttr(t[r],"data-product_variations",JSON.stringify(i))}catch(e){}}}function ewwwNggParseGalleries(e){if(e)for(var t in galleries){var r=galleries[t];galleries[t].images_list=ewwwNggParseImageList(r.images_list)}}function ewwwNggLoadGalleries(e){e&&document.addEventListener("ngg.galleria.themeadded",function(e,t){window.ngg_galleria._create_backup=window.ngg_galleria.create,window.ngg_galleria.create=function(e,t){var r=$(e).data("id");return galleries["gallery_"+r].images_list=ewwwNggParseImageList(galleries["gallery_"+r].images_list),window.ngg_galleria._create_backup(e,t)}})}function ewwwNggParseImageList(e){for(var t in e){var r=e[t];if(void 0!==r["image-webp"]&&(e[t].image=r["image-webp"],delete e[t]["image-webp"]),void 0!==r["thumb-webp"]&&(e[t].thumb=r["thumb-webp"],delete e[t]["thumb-webp"]),void 0!==r.full_image_webp&&(e[t].full_image=r.full_image_webp,delete e[t].full_image_webp),void 0!==r.srcsets)for(var a in r.srcsets)nggSrcset=r.srcsets[a],void 0!==r.srcsets[a+"-webp"]&&(e[t].srcsets[a]=r.srcsets[a+"-webp"],delete e[t].srcsets[a+"-webp"]);if(void 0!==r.full_srcsets)for(var i in r.full_srcsets)nggFSrcset=r.full_srcsets[i],void 0!==r.full_srcsets[i+"-webp"]&&(e[t].full_srcsets[i]=r.full_srcsets[i+"-webp"],delete e[t].full_srcsets[i+"-webp"])}return e}check_webp_feature("alpha",ewwwWebPInit);</script><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.8 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>&quot;Look like a girl, act like a lady, think like a man, work like a boss&quot;</title>
+	<meta name="description" content="This is part two in our four part series on Women in Business. Part One: How to set yourself apart in a male dominated industry Part Two:&nbsp;Look like a" />
+	<link rel="canonical" href="https://www.spicybroccoli.com/blog/woman-in-business-look-like-a-girl-act-like-a-lady-think-like-a-man-work-like-a-boss/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="&quot;Look like a girl, act like a lady, think like a man, work like a boss&quot;" />
+	<meta property="og:description" content="This is part two in our four part series on Women in Business. Part One: How to set yourself apart in a male dominated industry Part Two:&nbsp;Look like a" />
+	<meta property="og:url" content="https://www.spicybroccoli.com/blog/woman-in-business-look-like-a-girl-act-like-a-lady-think-like-a-man-work-like-a-boss/" />
+	<meta property="og:site_name" content="Spicy Broccoli Media" />
+	<meta property="article:published_time" content="2012-11-08T17:34:24+00:00" />
+	<meta property="article:modified_time" content="2020-05-19T00:26:46+00:00" />
+	<meta name="author" content="Spicy B" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Spicy B" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="3 minutes" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Spicy Broccoli Media &raquo; &#8220;Look like a girl, act like a lady, think like a man, work like a boss&#8221; Comments Feed" href="https://www.spicybroccoli.com/blog/woman-in-business-look-like-a-girl-act-like-a-lady-think-like-a-man-work-like-a-boss/feed/" />
+<link rel='stylesheet' id='sbi_styles-css' href='https://www.spicybroccoli.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.spicybroccoli.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='activecampaign-form-block-css' href='https://www.spicybroccoli.com/wp-content/plugins/activecampaign-subscription-forms/activecampaign-form-block/build/style-index.css?ver=1681956598' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.spicybroccoli.com/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='google_business_reviews_rating_wp_css-css' href='https://www.spicybroccoli.com/wp-content/plugins/g-business-reviews-rating/wp/css/css.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cookieconsent-style-css' href='https://www.spicybroccoli.com/wp-content/plugins/sbm-cookie-consent/assets/cookie-consent/cookieconsent.min.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-review-slider-pro-public_combine-css' href='https://www.spicybroccoli.com/wp-content/plugins/wp-google-places-review-slider/public/css/wprev-public_combine.css?ver=12.4' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-nav-css-css' href='https://www.spicybroccoli.com/wp-content/themes/spicybroccoli/css/responsive-nav/responsive-nav.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='stylesheet_url-css' href='https://www.spicybroccoli.com/wp-content/themes/spicybroccoli/style.css?ver=1.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='stylesheet_url_responsive-css' href='https://www.spicybroccoli.com/wp-content/themes/spicybroccoli/style-responsive.css?ver=1.0.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.spicybroccoli.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.spicybroccoli.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.spicybroccoli.com/wp-content/plugins/g-business-reviews-rating/wp/js/js.js?ver=6.2.2' id='google_business_reviews_rating_wp_js-js'></script>
+<script type='text/javascript' src='https://www.spicybroccoli.com/wp-content/plugins/sbm-cookie-consent/assets/cookie-consent/cookieconsent.min.js?ver=3.1' id='cookieconsent-script-js'></script>
+<script type='text/javascript' src='https://www.spicybroccoli.com/wp-content/themes/spicybroccoli/js/responsive-nav/classie.js?ver=6.2.2' id='classie-js'></script>
+<script type='text/javascript' src='https://www.spicybroccoli.com/wp-content/themes/spicybroccoli/js/responsive-nav/mlpushmenu.js?ver=6.2.2' id='mlpushmenu-js'></script>
+<script type='text/javascript' src='https://www.spicybroccoli.com/wp-content/themes/spicybroccoli/js/modernizr.js?ver=6.2.2' id='modernizr-js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.spicybroccoli.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.spicybroccoli.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.2" />
+<link rel='shortlink' href='https://www.spicybroccoli.com/?p=2236' />
+<noscript><style>.lazyload[data-src]{display:none !important;}</style></noscript><style>.lazyload{background-image:none !important;}.lazyload:before{background-image:none !important;}</style><style>.wp-block-gallery.is-cropped .blocks-gallery-item picture{height:100%;width:100%;}</style><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '446591582362694');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=446591582362694&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code —>
+
+<!-- Hotjar Tracking Code for https://www.spicybroccoli.com/ -->
+<script>
+	jQuery( window ).load(function() {
+		(function(h,o,t,j,a,r){
+			h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+			h._hjSettings={hjid:826805,hjsv:6};
+			a=o.getElementsByTagName('head')[0];
+			r=o.createElement('script');r.async=1;
+			r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+			a.appendChild(r);
+		})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+	});
+</script>
+<link rel="icon" type="image/svg+xml" href="https://www.spicybroccoli.com/favicon.svg">
+<link rel="alternate icon" href="https://www.spicybroccoli.com/favicon.ico">
+	
+	
+</head>
+
+<body class="post-template-default single single-post postid-2236 single-format-standard">
+<script data-cfasync="false" data-no-defer="1" data-no-minify="1" data-no-optimize="1">if(typeof ewww_webp_supported==="undefined"){var ewww_webp_supported=!1}if(ewww_webp_supported){document.body.classList.add("webp-support")}</script>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NMZBZ88"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="mp-pusher" class="mp-pusher">
+    <nav class="mp-menu" id="mp-menu">
+		<div class="mp-level">
+	        <ul id="menu-responsive-navigation" class=""><li id="menu-item-9306" class="mega-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9306"><a href="https://www.spicybroccoli.com/services/">Services</a>
+<div class='mp-level'><a href='#' class='mp-back'>back</a><ul>
+	<li id="menu-item-9307" class="menu-ico-branding menu-item menu-item-type-post_type menu-item-object-service menu-item-9307"><a href="https://www.spicybroccoli.com/service/graphic-design-sydney/">Graphic Design Sydney</a></li>
+	<li id="menu-item-9308" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-9308"><a href="https://www.spicybroccoli.com/service/graphic-design-sydney/logo-design/">Logo Design</a></li>
+	<li id="menu-item-9309" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-9309"><a href="https://www.spicybroccoli.com/service/graphic-design-sydney/corporate-brand-identity/">Corporate Brand Identity</a></li>
+	<li id="menu-item-9310" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-9310"><a href="https://www.spicybroccoli.com/service/graphic-design-sydney/brochure-design/">Brochure Design</a></li>
+	<li id="menu-item-9311" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-9311"><a href="https://www.spicybroccoli.com/service/graphic-design-sydney/marketing-collateral/">Marketing Collateral</a></li>
+	<li id="menu-item-9312" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-9312"><a href="https://www.spicybroccoli.com/?post_type=service&#038;p=7029">Menu Design</a></li>
+	<li id="menu-item-9313" class="menu-ico-website menu-item menu-item-type-post_type menu-item-object-service menu-item-9313"><a href="https://www.spicybroccoli.com/service/website-design-development/">Website Design &#038; Development</a></li>
+	<li id="menu-item-9314" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-9314"><a href="https://www.spicybroccoli.com/service/website-design-development/shopping-e-commerce-woo-commerce/">Shopify / E-commerce / Woo Commerce</a></li>
+	<li id="menu-item-9315" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-9315"><a href="https://www.spicybroccoli.com/service/website-design-development/wordpress-website-design/">WordPress Website Design</a></li>
+	<li id="menu-item-9316" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-9316"><a href="https://www.spicybroccoli.com/service/website-design-development/wordpress-website-development/">WordPress Website Development</a></li>
+	<li id="menu-item-9317" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-9317"><a href="https://www.spicybroccoli.com/service/website-design-development/enterprise-web-solutions/">Enterprise Web solutions</a></li>
+	<li id="menu-item-9318" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-9318"><a href="https://www.spicybroccoli.com/service/website-design-development/professional-services/">Professional services</a></li>
+	<li id="menu-item-9319" class="menu-ico-marketing menu-item menu-item-type-post_type menu-item-object-service menu-item-9319"><a href="https://www.spicybroccoli.com/service/digital-marketing/">Digital Marketing Sydney</a></li>
+	<li id="menu-item-9320" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-9320"><a href="https://www.spicybroccoli.com/service/digital-marketing/social-media-marketing/">Social Media Marketing Services</a></li>
+	<li id="menu-item-9321" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-9321"><a href="https://www.spicybroccoli.com/service/digital-marketing/google-ads-sem/">Google Adwords ( SEM ) Display ads &#038; Retargeting</a></li>
+	<li id="menu-item-9322" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-9322"><a href="https://www.spicybroccoli.com/service/digital-marketing/seo-search-engine-optimisation/">SEO – Search Engine Optimisation</a></li>
+	<li id="menu-item-9323" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-9323"><a href="https://www.spicybroccoli.com/service/digital-marketing/email-marketing/">Database Email Marketing /  Email Automation</a></li>
+</ul></div><!--mp-level -->
+</li>
+<li id="menu-item-9324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9324"><a href="//www.spicybroccoli.com/portfolio/">Portfolio</a>
+<div class='mp-level'><a href='#' class='mp-back'>back</a><ul>
+	<li id="menu-item-9325" class="menu-item menu-item-type-taxonomy menu-item-object-project_type menu-item-9325"><a href="https://www.spicybroccoli.com/portfolio/graphic-design/">Graphic Design</a></li>
+	<li id="menu-item-9326" class="menu-item menu-item-type-taxonomy menu-item-object-project_type menu-item-9326"><a href="https://www.spicybroccoli.com/portfolio/website-design-and-development/">Website Design &amp; Development</a></li>
+	<li id="menu-item-9327" class="menu-item menu-item-type-taxonomy menu-item-object-project_type menu-item-9327"><a href="https://www.spicybroccoli.com/portfolio/digital-marketing/">Digital Marketing</a></li>
+</ul></div><!--mp-level -->
+</li>
+<li id="menu-item-9328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9328"><a href="https://www.spicybroccoli.com/ethos/">About Us</a></li>
+<li id="menu-item-9329" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-9329"><a href="https://www.spicybroccoli.com/blog/">Blog Posts</a></li>
+<li id="menu-item-9330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9330"><a href="https://www.spicybroccoli.com/contact/">Say Hello</a></li>
+</ul>			<div class="request-pricing">
+				<a href="https://www.spicybroccoli.com/get-a-quote/" class="btn btn-request-pricing" title="Get a quote">Request Pricing</a>
+			</div>
+        </div>
+	</nav>
+	
+</div>
+
+<header id="header">
+    <div class="header-wrapper">
+	<a href="#" id="trigger" class="menu-trigger"></a>
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-3 branding">
+                    <div class="wrapper logo_sbm">
+                        <a id="logo" href="https://www.spicybroccoli.com" title="Spicy Broccoli Media - Home" rel="home">
+                            <svg enable-background="new 0 0 166 71.3" version="1.1" viewBox="0 0 166 71.3" width="142" height="60" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><style type="text/css">.st0{fill:none}.st1{fill:#F7BC60}.st2{fill:#FFF}.st3{fill:#EE3425}</style><path class="st3" d="m35.9 71.3h-23.4v-24.7c-2-1.4-3.6-3.6-4.5-6.3-3.5-1.1-6-3.3-7.3-6.1-1.3-3-1.1-6.5 0.6-10-1.7-3.5-1.9-7-0.6-10 1.2-2.9 3.8-5 7.3-6.1 1.1-3.5 3.3-6 6.1-7.3 3-1.3 6.5-1.1 10 0.6 3.5-1.7 7-1.9 10-0.6 2.9 1.2 5 3.8 6.1 7.3 3.5 1.1 6 3.3 7.3 6.1 1.3 3 1.1 6.5-0.6 10 1.7 3.5 1.9 7 0.6 10-1.2 2.9-3.8 5-7.3 6.1-0.9 2.7-2.4 4.9-4.5 6.3v24.7zm-20.4-3h17.3v-23.4l0.8-0.4c1.9-1.1 3.3-3.1 4-5.8l0.2-0.8 0.8-0.2c3-0.8 5.1-2.5 6.1-4.7 1-2.3 0.7-5.2-0.9-8.1l-0.4-0.7 0.4-0.7c1.6-2.9 1.9-5.8 0.9-8.1-1-2.2-3.1-3.9-6.1-4.7l-0.8-0.2-0.2-0.8c-0.8-3-2.5-5.1-4.7-6.1-2.3-1-5.2-0.7-8.1 0.9l-0.7 0.4-0.7-0.4c-2.9-1.6-5.8-1.9-8.1-0.9-2.2 1-3.9 3.1-4.7 6.1l-0.2 0.8-0.8 0.2c-3 0.8-5.1 2.5-6.1 4.7-1 2.3-0.7 5.2 0.9 8.1l0.4 0.7-0.4 0.7c-1.6 2.9-1.9 5.8-0.9 8.1 1 2.2 3.1 3.9 6.1 4.7l0.8 0.2 0.2 0.8c0.7 2.7 2.1 4.7 4 5.8l0.8 0.4v23.4z"/><path d="m58.2 16.1c0.6 2.6 2.4 3.9 5 3.9 1 0 2.3-0.6 2.3-1.8 0-2.9-9.3-1.2-9.3-6.5 0-2.9 2.8-4.4 5.4-4.4 1.6 0 3.1 0.6 4.3 1.4l0.6-1h1.6v4.9h-1.9c-0.7-2.1-2.1-3.2-4.4-3.2-1 0-2.2 0.4-2.2 1.6 0 2.3 9.3 1.2 9.3 6.6 0 3.1-2.6 4.4-5.4 4.4-1.8 0-3.5-0.3-4.9-1.5l-0.6 1h-2v-5.4h2.2z"/> <path d="m75.5 10.1c1.2-2 2.7-2.9 4.7-2.9 4.1 0 5.8 3.7 5.8 7.3s-1.7 7.3-5.8 7.3c-2.3 0-3.9-1.4-4.6-2.5h-0.1v5.1c0 0.9 0.3 1.3 1.2 1.3h1.9v1.9h-9.3v-1.9h1.6c0.9 0 1.2-0.4 1.2-1.3v-13.5c0-0.9-0.3-1.3-1.2-1.3h-1.5v-1.9h6.2v2.4zm0.1 4.5c0 3.4 1.5 5 3.5 5 1.7 0 3-1.7 3-5 0-3.8-1.4-5-3-5-2.1-0.1-3.5 1.6-3.5 5z"/> <path d="m87.2 21.5v-1.9h1.4c0.8 0 1.2-0.3 1.2-1.2v-7.5c0-0.9-0.4-1.2-1.2-1.2h-1.4v-2h6v10.7c0 0.9 0.4 1.2 1.2 1.2h1.4v1.9h-8.6zm3.9-19.9c1.1 0 2.1 0.9 2.1 2.1s-1 2.1-2.1 2.1-2.1-0.9-2.1-2.1 1-2.1 2.1-2.1z"/> <path d="m109.6 15.8c-0.3 3.9-2.3 6.1-6.3 6.1-4.5 0-6.9-2.6-6.9-7.4 0-4.4 3.5-7.3 7.3-7.3 3.4 0 6.1 1.9 6.1 4.3 0 1.3-0.9 2.4-2.1 2.4-1 0-2.3-0.5-2.3-1.8 0-1.2 0.6-1.8 1.7-1.9-0.6-0.9-1.6-1.1-2.8-1.1-3.1 0-3.9 2.9-3.9 5.1s0.7 5.1 3.8 5.1c1.8 0 3-1.5 3.2-3.6h2.2z"/> <path d="m110.8 7.7h8.5v1.9h-1.3c-0.5 0-0.9 0.2-0.9 0.6 0 0.2 0.1 0.5 0.3 0.8l2.7 6.2h0.1l2.4-6c0.1-0.4 0.3-0.7 0.3-1 0-0.4-0.4-0.7-0.9-0.7h-1.3v-1.8h7.1v1.9c-1.1 0-1.9 0.2-2.4 1.3l-4.8 11.3c-1.6 3.9-3.2 5.4-5.9 5.4-2 0-3.9-1.2-3.9-3.6 0-1.4 0.8-2.6 2.3-2.6 1.1 0 2 0.8 2 1.9 0 0.9-0.6 1.7-1.4 1.7h-0.8c0.3 0.6 0.9 0.7 1.4 0.7 1.8 0 2.6-0.9 3.2-2.2l1-2.2-5-10.7c-0.3-0.8-1.2-1.1-2.7-1.1v-1.8z"/> <path d="m60.7 34.1c0.9-1.3 2.4-2.3 4-2.3 4.3 0 6 3.6 6 7 0 4.9-2.1 7.7-6.1 7.7-1.8 0-3-0.4-4.4-2l-1.1 1.6h-1.9v-16.4c0-0.9-0.4-1.2-1.2-1.2h-1.1v-1.9h5.8v7.5zm3 0.1c-2 0-3 1.6-3 5 0 3.6 0.6 5 3 5 2 0 3-1.6 3-5 0.1-3.6-0.6-5-3-5z"/> <path d="m78 34.5c1.2-1.8 2.2-2.7 3.7-2.7 1.9 0 3.6 1.1 3.6 3.2 0 1.3-0.8 2.5-2.2 2.5-1.2 0-2.1-0.7-2.1-1.9 0-1.1 0.9-1.7 1.9-1.8-0.3-0.4-0.8-0.4-1.2-0.4-2.4 0-3.7 2.4-3.7 4.5v5.1c0 0.9 0.4 1.2 1.2 1.2h1.9v1.9h-9.3v-1.9h1.6c0.8 0 1.2-0.3 1.2-1.2v-7.5c0-0.9-0.4-1.2-1.2-1.2h-1.6v-1.9h6.2v2.1z"/> <path d="m93.8 31.9c4.4 0 7.6 2.7 7.6 7.3 0 4.7-3.2 7.3-7.6 7.3s-7.6-2.6-7.6-7.3 3.2-7.3 7.6-7.3zm0 12.7c2.4 0 3.6-1.9 3.6-5.4s-1.2-5.4-3.6-5.4-3.6 1.9-3.6 5.4 1.2 5.4 3.6 5.4z"/> <path d="m115.9 40.4c-0.3 3.9-2.3 6.1-6.3 6.1-4.5 0-6.9-2.6-6.9-7.4 0-4.4 3.4-7.3 7.3-7.3 3.4 0 6.1 1.9 6.1 4.3 0 1.3-0.9 2.4-2.1 2.4-1 0-2.3-0.5-2.3-1.8 0-1.2 0.6-1.8 1.7-1.9-0.6-0.9-1.6-1.1-2.8-1.1-3.1 0-3.9 2.9-3.9 5.1s0.7 5.1 3.8 5.1c1.8 0 3-1.5 3.2-3.6h2.2z"/> <path d="m130.5 40.4c-0.3 3.9-2.3 6.1-6.3 6.1-4.5 0-6.9-2.6-6.9-7.4 0-4.4 3.4-7.3 7.3-7.3 3.4 0 6.1 1.9 6.1 4.3 0 1.3-0.9 2.4-2.1 2.4-1 0-2.3-0.5-2.3-1.8 0-1.2 0.6-1.8 1.7-1.9-0.6-0.9-1.6-1.1-2.8-1.1-3.1 0-3.9 2.9-3.9 5.1s0.7 5.1 3.8 5.1c1.8 0 3-1.5 3.2-3.6h2.2z"/> <path d="m139.4 31.9c4.4 0 7.6 2.7 7.6 7.3 0 4.7-3.2 7.3-7.6 7.3s-7.6-2.6-7.6-7.3 3.2-7.3 7.6-7.3zm0 12.7c2.4 0 3.6-1.9 3.6-5.4s-1.2-5.4-3.6-5.4-3.6 1.9-3.6 5.4 1.2 5.4 3.6 5.4z"/> <path d="m147.5 46.1v-1.9h1.4c0.8 0 1.2-0.3 1.2-1.2v-13.3c0-0.9-0.4-1.2-1.2-1.2h-1.4v-1.9h6.1v16.4c0 0.9 0.4 1.2 1.2 1.2h1.4v1.9h-8.7z"/> <path d="m157.4 46.1v-1.9h1.4c0.8 0 1.2-0.3 1.2-1.2v-7.5c0-0.9-0.4-1.2-1.2-1.2h-1.4v-1.9h6v10.6c0 0.9 0.4 1.2 1.2 1.2h1.4v1.9h-8.6zm3.8-19.9c1.2 0 2.1 0.9 2.1 2.1s-1 2.1-2.1 2.1-2.1-0.9-2.1-2.1 1-2.1 2.1-2.1z"/> <path d="m62 57.2c1.2-1.9 2.4-2.9 4.7-2.9 1.9 0 3.4 0.9 3.9 2.8 1.3-1.7 2.7-2.8 4.9-2.8s4.1 1.5 4.1 4.2v7c0 0.9 0.4 1.2 1.2 1.2h1.6v1.9h-8.2v-1.9h0.8c0.8 0 1.2-0.3 1.2-1.2v-7c0-1.2-0.9-1.9-2.1-1.9-1.7 0-3.3 1.6-3.3 3.5v5.3c0 0.9 0.4 1.2 1.2 1.2h0.8v1.9h-7.5v-1.9h0.9c0.8 0 1.2-0.3 1.2-1.2v-6.2c0-1.5-0.3-2.6-2.1-2.6s-3.3 1.7-3.3 3.5v5.3c0 0.9 0.4 1.2 1.2 1.2h0.8v1.9h-8.4v-1.9h1.6c0.8 0 1.2-0.3 1.2-1.2v-7.5c0-0.9-0.4-1.2-1.2-1.2h-1.6v-1.9h6.4v2.4z"/> <path d="m86.9 61.9c-0.1 2.3 0.6 4.8 3.4 4.8 2.1 0 3.2-1.1 3.6-3.1h2.4c-0.4 3.4-2.4 5.3-6.3 5.3-4.6 0-7-2.6-7-7.3 0-4.3 2.8-7.3 6.8-7.3 4.8 0 6.9 4.3 6.5 7.7h-9.4zm5.5-1.9c0-1.9-0.6-3.7-2.7-3.7-2 0-2.7 1.8-2.8 3.7h5.5z"/> <path d="m108.2 66.1c-1.2 2-2.7 2.9-4.7 2.9-4.1 0-5.8-3.7-5.8-7.3s2.2-7.3 5.8-7.3c2.3 0 3.9 1.4 4.6 2.5h0.1v-4.6c0-0.9-0.3-1.3-1.2-1.3h-1.8v-1.9h6.5v16.3c0 0.9 0.3 1.3 1.2 1.3h1.5v1.9h-6.2v-2.5zm-3.5 0.5c2 0 3.5-1.6 3.5-5.2 0-3.2-1.6-4.9-3.5-4.9-2 0-3 1.6-3 5-0.1 3.5 1 5.1 3 5.1z"/> <path d="m115.6 68.5v-1.9h1.4c0.8 0 1.2-0.3 1.2-1.2v-7.5c0-0.9-0.3-1.2-1.2-1.2h-1.4v-1.9h6v10.7c0 0.9 0.4 1.2 1.2 1.2h1.4v1.9h-8.6zm3.9-19.9c1.2 0 2.1 0.9 2.1 2.1s-1 2.1-2.1 2.1-2.1-0.9-2.1-2.1c-0.1-1.2 0.9-2.1 2.1-2.1z"/> <path d="m141 63.4v0.9c0 3.3-1.3 4.7-3.8 4.7-1.5 0-2.7-0.6-3-2.2-1.1 1.7-3 2.2-4.8 2.2-2.3 0-4.1-1.1-4.1-3.7 0-5.7 8.8-2.9 8.8-7.1 0-1.9-1.6-2.2-3.2-2.2-0.8 0-2.2 0.3-2.7 1 1.1-0.1 1.9 0.3 1.9 1.5 0 1.3-0.9 1.7-2.1 1.7-1.3 0-2.1-1-2.1-2.2 0-3 3.6-3.7 5.9-3.7 4 0 5.7 1.8 5.7 4.3v7.2c0 0.6 0.3 1 0.7 1s0.8-0.4 0.8-2.2v-1.1h2zm-6.9-2.2-3.1 1.4c-0.9 0.4-1.8 0.9-1.8 2.2 0 1.2 0.6 1.9 1.8 1.9 2 0 3.1-1.7 3.1-3.6v-1.9z"/></svg>
+                            <div id="logo_sbm">Be memorable.</div>
+                        </a>
+                    </div>
+                </div><!-- .branding -->
+                <div class="col-9 main-menu-wrapper">
+					<div class="container-search">
+						<form 
+							action="https://www.spicybroccoli.com" id="search_form" method="GET" autocomplete="off">
+							<input type="text" name="s" id="search_field" placeholder="Search..." required>
+							<div class="search-div"></div>
+						</form>
+					</div>
+                    <div class="request-pricing">
+                        <a href="https://www.spicybroccoli.com/get-a-quote/" class="btn btn-request-pricing" title="Get a quote">Request Pricing</a>
+                    </div>
+                    <div class="header-nav-main">
+					<nav class="menu-header"><ul id="menu-primary-navigation" class="menu"><li id="menu-item-4536" class="mega-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4536"><a href="https://www.spicybroccoli.com/services/">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-7041" class="menu-ico-branding menu-item menu-item-type-post_type menu-item-object-service menu-item-has-children menu-item-7041"><a href="https://www.spicybroccoli.com/service/graphic-design-sydney/">Graphic Design Sydney</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7044" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-7044"><a href="https://www.spicybroccoli.com/service/graphic-design-sydney/logo-design/">Logo Design</a></li>
+		<li id="menu-item-7042" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-7042"><a href="https://www.spicybroccoli.com/service/graphic-design-sydney/corporate-brand-identity/">Corporate Brand Identity</a></li>
+		<li id="menu-item-7043" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-7043"><a href="https://www.spicybroccoli.com/service/graphic-design-sydney/brochure-design/">Brochure Design</a></li>
+		<li id="menu-item-7045" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-7045"><a href="https://www.spicybroccoli.com/service/graphic-design-sydney/marketing-collateral/">Marketing Collateral</a></li>
+		<li id="menu-item-7046" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-7046"><a href="https://www.spicybroccoli.com/?post_type=service&#038;p=7029">Menu Design</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7048" class="menu-ico-website menu-item menu-item-type-post_type menu-item-object-service menu-item-has-children menu-item-7048"><a href="https://www.spicybroccoli.com/service/website-design-development/">Website Design &#038; Development</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7052" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-7052"><a href="https://www.spicybroccoli.com/service/website-design-development/shopping-e-commerce-woo-commerce/">Shopify / E-commerce / Woo Commerce</a></li>
+		<li id="menu-item-7053" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-7053"><a href="https://www.spicybroccoli.com/service/website-design-development/wordpress-website-design/">WordPress Website Design</a></li>
+		<li id="menu-item-7054" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-7054"><a href="https://www.spicybroccoli.com/service/website-design-development/wordpress-website-development/">WordPress Website Development</a></li>
+		<li id="menu-item-7049" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-7049"><a href="https://www.spicybroccoli.com/service/website-design-development/enterprise-web-solutions/">Enterprise Web solutions</a></li>
+		<li id="menu-item-7050" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-7050"><a href="https://www.spicybroccoli.com/service/website-design-development/professional-services/">Professional services</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7036" class="menu-ico-marketing menu-item menu-item-type-post_type menu-item-object-service menu-item-has-children menu-item-7036"><a href="https://www.spicybroccoli.com/service/digital-marketing/">Digital Marketing Sydney</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7040" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-7040"><a href="https://www.spicybroccoli.com/service/digital-marketing/social-media-marketing/">Social Media Marketing Services</a></li>
+		<li id="menu-item-7038" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-7038"><a href="https://www.spicybroccoli.com/service/digital-marketing/google-ads-sem/">Google Adwords ( SEM ) Display ads &#038; Retargeting</a></li>
+		<li id="menu-item-7039" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-7039"><a href="https://www.spicybroccoli.com/service/digital-marketing/seo-search-engine-optimisation/">SEO – Search Engine Optimisation</a></li>
+		<li id="menu-item-7037" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-7037"><a href="https://www.spicybroccoli.com/service/digital-marketing/email-marketing/">Database Email Marketing /  Email Automation</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-3812" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3812"><a href="//www.spicybroccoli.com/portfolio/">Portfolio</a>
+<ul class="sub-menu">
+	<li id="menu-item-7056" class="menu-item menu-item-type-taxonomy menu-item-object-project_type menu-item-7056"><a href="https://www.spicybroccoli.com/portfolio/graphic-design/">Graphic Design</a></li>
+	<li id="menu-item-7055" class="menu-item menu-item-type-taxonomy menu-item-object-project_type menu-item-7055"><a href="https://www.spicybroccoli.com/portfolio/website-design-and-development/">Website Design &amp; Development</a></li>
+	<li id="menu-item-7057" class="menu-item menu-item-type-taxonomy menu-item-object-project_type menu-item-7057"><a href="https://www.spicybroccoli.com/portfolio/digital-marketing/">Digital Marketing</a></li>
+</ul>
+</li>
+<li id="menu-item-7113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7113"><a href="https://www.spicybroccoli.com/ethos/">About Us</a></li>
+<li id="menu-item-6770" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-6770"><a href="https://www.spicybroccoli.com/blog/">Blog Posts</a></li>
+<li id="menu-item-3806" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3806"><a href="https://www.spicybroccoli.com/contact/">Say Hello</a></li>
+</ul></nav>                    </div>
+                </div>
+            </div>
+        </div><!-- .main-menu-wrapper -->
+    </div><!-- .header-wrapper -->
+
+
+</header><!-- #header -->
+
+	<div class="breadcrumb-wrapper container">
+		<span ><a title="Spicy Broccoli Media" href="https://www.spicybroccoli.com" >Home</a></span>&nbsp;>&nbsp;<div class="breadcrumbs" typeof="BreadcrumbList" vocab="https://schema.org/">
+			<!-- Breadcrumb NavXT 7.2.0 -->
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Blog Posts." href="https://www.spicybroccoli.com/blog/" class="post-root post post-post"><span property="name">Blog Posts</span></a><meta property="position" content="1"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to the Blog category archives." href="https://www.spicybroccoli.com/blog/category/the-spicy-blog/" class="taxonomy category"><span property="name">Blog</span></a><meta property="position" content="2"></span> &gt; <span class="post post-post current-item" property="itemListElement" typeof="ListItem">&#8220;Look like a girl, act like a lady, think like a man, work like a boss&#8221;</span>		</div>
+	</div>
+
+
+
+    <div class="container section-space-bottom section-space-top-sm">
+        <div class="row">
+            <div class="col-lg-9 content blog-content">
+                <main id="page">
+                    <article class="page type-page entry" itemscope="" itemtype="https://schema.org/CreativeWork">
+                        <header class="section-space-bottom-sm">
+                            <h1 class="header-title">&#8220;Look like a girl, act like a lady, think like a man, work like a boss&#8221;</h1>
+                            <div class="sigle-post-date">                                Published on <time itemprop="datePublished" datetime="2012-11-08T17:34:24+11:00">November 8th, 2012</time>
+                                                                | Last updated on <time itemprop="dateModified" datetime="2020-05-19T10:26:46+10:00">May 19th, 2020 </time>
+                             by <span itemprop="author" itemscope="" itemtype="https://schema.org/Person"
+                                title="Posts by Spicy B" 
+                                rel="author">Spicy B</span>
+                            </div>
+                        </header>
+                        <div class="content-wrap" itemprop="text">
+                            <p><img decoding="async" class="alignnone size-full wp-image-2322 lazyload" title="Look like a lady, think like a man" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAtQAAADfAQAAAAD+Dnm3AAAAAnRSTlMAAHaTzTgAAAArSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAIAHA1AkAAH10sbPAAAAAElFTkSuQmCC" alt="" width="724" height="223" data-src="//spicybroccoli.com/wp-content/uploads/2012/11/SMBB1031_thinklikeaman_looklikealady.jpg"><noscript><img decoding="async" class="alignnone size-full wp-image-2322" title="Look like a lady, think like a man" src="//spicybroccoli.com/wp-content/uploads/2012/11/SMBB1031_thinklikeaman_looklikealady.jpg" alt="" width="724" height="223" data-eio="l"></noscript></p>
+<p>This is part two in our four part series on <a href="//spicybroccoli.com/blog/tag/women-in-business/">Women in Business</a>.</p>
+<ul>
+<li><strong>Part One:</strong> <a title="How to Set Yourself Apart In a Male Dominated Industry" href="//spicybroccoli.com/blog/how-to-set-yourself-apart-if-youre-in-a-male-dominated-industry/">How to set yourself apart in a male dominated industry</a></li>
+<li><strong>Part Two:</strong>&nbsp;Look like a girl, act like a lady, think like a man, work like a boss</li>
+<li><strong>Part Three:</strong>&nbsp;<a href="//spicybroccoli.com/blog/supporting-other-women">Supporting Other Women</a></li>
+<li><strong>Part Four:</strong>&nbsp;<a title="Successful Business Women in History" href="//spicybroccoli.com/blog/use-it-to-your-advantage-list-of-successful-women-in-history//">Use it to your advantage: List of successful women in history</a></li>
+</ul>
+<h2>Part Two: &#8220;Look like a girl, act like a lady, think like a man, work like a boss&#8221;</h2>
+<p>Thinking like a man aids you to achieve a professional standard in the business world. This is because women who know how to position themselves are more successful. Sheer nerve and real guts will get your further than talent, which is sad because those with real talent go unnoticed; but let’s face it, it is the truth.</p>
+<p>If you dress like a lady, but think like a man it’s safe to say that you will not be mistaken in your field, it will show you are confident and know what you are doing, which is fantastic in running a business.</p>
+<p>There is no need to underestimate your accomplishments, woman are said to attain skills quicker than men however, are often let down by their confidence and consequently diminishing their get-ahead tactics. Here are a few thoughts you can consider to acknowledge your down falls and how to get back above them.</p>
+<ol>
+<li><strong>Being Tentative:</strong> Woman are often weary about voicing their opinions and appear unsure of themselves even when they know very well what they’re talking about. If you are a well experienced woman then there is no reason to not be more confident about the work you produce, just take a step back remember who you are, be nice and still careful but speak up and proudly about your opinions, this will especially help because you will end up motivating them to greater standards.</li>
+<li><strong>Being Collaborative:</strong> While men are more authoritarian, women are seen as collaborative, meaning they will often ask for feedback on a certain matter and with that feedback, often alter their original outcome. Whereas men will take action from the beginning without feedback. Where it’s perfectly fine to ask for feedback as -none can tend to lead to negative outcomes-, it’s good to be firm and precise about your own thoughts and have your own conclusions beforehand; if feedback is given, challenge it don’t accept it first hand! If you are at wrong, then embrace this “failure” because you cannot succeed and learn without it, this will surely help you with leaving that comfort zone we all love.</li>
+<li><strong>Being Perceptive:</strong> Look at yourself now, are you in the position you intended to be when you started out your business. Are you still as enthusiastic? Have you progressed through the same initial approach? If you’re saying no to these following then something somewhere went wrong, acknowledge the mishap you faced and the first step today, <strong>take action!</strong> Women often face dilemmas in the work place and let it get it to them, fixing these matters will be your first step to success, the second, <em>hold on to it</em>! Keep that enthusiasm and faith you had when you started, it will support you throughout your ventures.</li>
+</ol>
+<p>Repeat after us: “Look like a girl, act like a lady, think like a man, work like a boss”. Keeping ahead as a woman in a business can be hard, but not if you don’t let it. Take our Spicy advice on board and accomplish all you can with your skills, remember to acknowledge and speak up!</p>
+<p>That’s a Spicy wrap up for this week, and thank you for tuning in on our advice for <strong>Supporting Other Women</strong>, there’s more coming next week so be sure to tune in to our blog for more on <a title="Women In Business Month" href="//spicybroccoli.com/women-in-business-month/"><em>Women In Business</em></a>.</p>
+                        </div>
+                    </article>
+                </main>
+            </div>
+            <div class="col-lg-3 sidebar blog-sidebar" role="complementary" aria-label="Primary Sidebar" itemscope="" itemtype="https://schema.org/WPSideBar">
+                <aside>
+                    <div class="sidebar-wrapper">
+    <div class="section-space-bottom-sm">
+    <form role="search" method="get" class="search-form" action="https://www.spicybroccoli.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>    </div>
+    <div class="section-space-bottom-sm">
+        <h4 class="title-header small">Recent Posts</h4>
+        <ul class="recent-posts-list">
+        <li><a href="https://www.spicybroccoli.com/blog/mywearweather-online-advertising/">How to get the most out of your Online Advertising – example: MyWearWeather.com</a> </li> <li><a href="https://www.spicybroccoli.com/blog/spicy-broccoli-media-awarded-by-manly-chamber-of-commerce/">Spicy Broccoli Media awarded by Manly Chamber of Commerce</a> </li> <li><a href="https://www.spicybroccoli.com/blog/sexy-pinup-girls-poster-design-for-manly-wharf-hotel/">Sexy Pinup girls poster design for Manly Wharf Hotel</a> </li> <li><a href="https://www.spicybroccoli.com/blog/social-media-for-business-yes-it-really-can-turn-the-online-community-into-dollars/">Social Media for Business. Yes it really can turn the online community into dollars!</a> </li> <li><a href="https://www.spicybroccoli.com/blog/making-your-website-successful/">Making your website successful</a> </li>         </ul>
+    </div>
+    <div class="section-space-bottom-sm archives-list">
+        <h4 class="title-header small">Archives</h4>
+        	<li><a href='https://www.spicybroccoli.com/blog/2023/'>2023</a></li>
+	<li><a href='https://www.spicybroccoli.com/blog/2022/'>2022</a></li>
+	<li><a href='https://www.spicybroccoli.com/blog/2021/'>2021</a></li>
+	<li><a href='https://www.spicybroccoli.com/blog/2020/'>2020</a></li>
+	<li><a href='https://www.spicybroccoli.com/blog/2019/'>2019</a></li>
+	<li><a href='https://www.spicybroccoli.com/blog/2018/'>2018</a></li>
+	<li><a href='https://www.spicybroccoli.com/blog/2017/'>2017</a></li>
+	<li><a href='https://www.spicybroccoli.com/blog/2016/'>2016</a></li>
+	<li><a href='https://www.spicybroccoli.com/blog/2015/'>2015</a></li>
+	<li><a href='https://www.spicybroccoli.com/blog/2014/'>2014</a></li>
+	<li><a href='https://www.spicybroccoli.com/blog/2013/'>2013</a></li>
+	<li><a href='https://www.spicybroccoli.com/blog/2012/'>2012</a></li>
+	<li><a href='https://www.spicybroccoli.com/blog/2011/'>2011</a></li>
+	<li><a href='https://www.spicybroccoli.com/blog/2010/'>2010</a></li>
+    </div>
+    <div class="sidebar-tagcloud">
+        <h4 class="title-header small">Top tags</h4>
+        <div class="sidebar-tagcloud-wrapper bg-grey">
+        <a href="https://www.spicybroccoli.com/blog/tag/blogging/" class="tag-cloud-link tag-link-15 tag-link-position-1" style="font-size: 12.416666666667px;" aria-label="Blogging (4 items)">Blogging</a>
+<a href="https://www.spicybroccoli.com/blog/tag/branding/" class="tag-cloud-link tag-link-10 tag-link-position-2" style="font-size: 13.25px;" aria-label="Branding (7 items)">Branding</a>
+<a href="https://www.spicybroccoli.com/blog/tag/creative-agency/" class="tag-cloud-link tag-link-162 tag-link-position-3" style="font-size: 12.416666666667px;" aria-label="creative agency (4 items)">creative agency</a>
+<a href="https://www.spicybroccoli.com/blog/tag/design/" class="tag-cloud-link tag-link-17 tag-link-position-4" style="font-size: 13.666666666667px;" aria-label="Design (9 items)">Design</a>
+<a href="https://www.spicybroccoli.com/blog/tag/design-process/" class="tag-cloud-link tag-link-18 tag-link-position-5" style="font-size: 12.416666666667px;" aria-label="Design Process (4 items)">Design Process</a>
+<a href="https://www.spicybroccoli.com/blog/tag/design-trends/" class="tag-cloud-link tag-link-118 tag-link-position-6" style="font-size: 12px;" aria-label="Design trends (3 items)">Design trends</a>
+<a href="https://www.spicybroccoli.com/blog/tag/digital-marketing/" class="tag-cloud-link tag-link-128 tag-link-position-7" style="font-size: 13.458333333333px;" aria-label="digital marketing (8 items)">digital marketing</a>
+<a href="https://www.spicybroccoli.com/blog/tag/digital-marketing-sydney/" class="tag-cloud-link tag-link-170 tag-link-position-8" style="font-size: 12.416666666667px;" aria-label="Digital marketing sydney (4 items)">Digital marketing sydney</a>
+<a href="https://www.spicybroccoli.com/blog/tag/graphic-design/" class="tag-cloud-link tag-link-98 tag-link-position-9" style="font-size: 13.458333333333px;" aria-label="Graphic Design (8 items)">Graphic Design</a>
+<a href="https://www.spicybroccoli.com/blog/tag/northern-beaches/" class="tag-cloud-link tag-link-97 tag-link-position-10" style="font-size: 12px;" aria-label="Northern Beaches (3 items)">Northern Beaches</a>
+<a href="https://www.spicybroccoli.com/blog/tag/online-marketing/" class="tag-cloud-link tag-link-12 tag-link-position-11" style="font-size: 13.666666666667px;" aria-label="Online Marketing (9 items)">Online Marketing</a>
+<a href="https://www.spicybroccoli.com/blog/tag/rebranding-your-business/" class="tag-cloud-link tag-link-31 tag-link-position-12" style="font-size: 13.041666666667px;" aria-label="Rebranding Your Business (6 items)">Rebranding Your Business</a>
+<a href="https://www.spicybroccoli.com/blog/tag/small-business/" class="tag-cloud-link tag-link-19 tag-link-position-13" style="font-size: 12.416666666667px;" aria-label="Small Business (4 items)">Small Business</a>
+<a href="https://www.spicybroccoli.com/blog/tag/social-media/" class="tag-cloud-link tag-link-124 tag-link-position-14" style="font-size: 12.75px;" aria-label="social media (5 items)">social media</a>
+<a href="https://www.spicybroccoli.com/blog/tag/social-media-for-business/" class="tag-cloud-link tag-link-32 tag-link-position-15" style="font-size: 14px;" aria-label="Social Media For Business (11 items)">Social Media For Business</a>
+<a href="https://www.spicybroccoli.com/blog/tag/social-media-marketing/" class="tag-cloud-link tag-link-132 tag-link-position-16" style="font-size: 12px;" aria-label="social media marketing (3 items)">social media marketing</a>
+<a href="https://www.spicybroccoli.com/blog/tag/start-up/" class="tag-cloud-link tag-link-20 tag-link-position-17" style="font-size: 13.25px;" aria-label="Start-up (7 items)">Start-up</a>
+<a href="https://www.spicybroccoli.com/blog/tag/web-design/" class="tag-cloud-link tag-link-21 tag-link-position-18" style="font-size: 14px;" aria-label="Web Design (11 items)">Web Design</a>
+<a href="https://www.spicybroccoli.com/blog/tag/women-in-business/" class="tag-cloud-link tag-link-28 tag-link-position-19" style="font-size: 12.75px;" aria-label="Women In Business (5 items)">Women In Business</a>
+<a href="https://www.spicybroccoli.com/blog/tag/your-website/" class="tag-cloud-link tag-link-23 tag-link-position-20" style="font-size: 13.458333333333px;" aria-label="Your Website (8 items)">Your Website</a>        </div>
+    </div>
+</div>                </aside>
+            </div>
+        </div>
+    </div>
+
+
+
+
+<footer>
+    <div id="social">
+        <div class="container">
+            <div class="menu-social-nav-container">
+                <div class="menu-social-media-container"><ul id="menu-social-media" class="menu"><li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74"><a target="_blank" rel="nofollow" href="https://www.instagram.com/spicybroccoli/">Instagram</a></li>
+<li id="menu-item-70" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70"><a target="_blank" rel="nofollow" href="https://www.facebook.com/spicybroccoli">Facebook</a></li>
+<li id="menu-item-72" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-72"><a target="_blank" rel="nofollow" href="http://www.linkedin.com/company/spicybroccoli-media">LinkedIn</a></li>
+<li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73"><a target="_blank" rel="nofollow" href="https://www.pinterest.com/spicybroccoli/">Pinterest</a></li>
+<li id="menu-item-71" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71"><a target="_blank" rel="nofollow" href="https://twitter.com/spicybroccoli">Twitter</a></li>
+</ul></div>            </div> 
+        </div>
+    </div>
+    <div id="footer-section" class="bg-black">
+        <div class="container">
+            <a rel="home" 
+                title="Spicy Broccoli Media" 
+                href="https://www.spicybroccoli.com" 
+                id="logo_footer" 
+                class="footer scrolltotop"
+            >
+                <svg enable-background="new 0 0 268.5 71.3" version="1.1" width="226" height="60" viewBox="0 0 268.5 71.3" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><style type="text/css">.st0{fill:none}.st1{fill:#F7BC60}.st2{fill:#FFF}.st3{fill:#EE3425}.st4{fill:#4D4D4D}</style><path class="st3" d="m35.9 71.3h-23.4v-24.7c-2-1.4-3.6-3.6-4.5-6.3-3.5-1.1-6-3.3-7.3-6.1-1.3-3-1.1-6.5 0.6-10-1.7-3.5-1.9-7-0.6-10 1.2-2.9 3.8-5 7.3-6.1 1.1-3.5 3.3-6 6.1-7.3 3-1.3 6.5-1.1 10 0.6 3.5-1.7 7-1.9 10-0.6 2.9 1.2 5 3.8 6.1 7.3 3.5 1.1 6 3.3 7.3 6.1 1.3 3 1.1 6.5-0.6 10 1.7 3.5 1.9 7 0.6 10-1.2 2.9-3.8 5-7.3 6.1-0.9 2.7-2.4 4.9-4.5 6.3v24.7zm-20.4-3h17.3v-23.4l0.8-0.4c1.9-1.1 3.3-3.1 4-5.8l0.2-0.8 0.8-0.2c3-0.8 5.1-2.5 6.1-4.7 1-2.3 0.7-5.2-0.9-8.1l-0.4-0.7 0.4-0.7c1.6-2.9 1.9-5.8 0.9-8.1-1-2.2-3.1-3.9-6.1-4.7l-0.8-0.2-0.2-0.8c-0.8-3-2.5-5.1-4.7-6.1-2.3-1-5.2-0.7-8.1 0.9l-0.7 0.4-0.7-0.4c-2.9-1.6-5.8-1.9-8.1-0.9-2.2 1-3.9 3.1-4.7 6.1l-0.2 0.8-0.8 0.2c-3 0.8-5.1 2.5-6.1 4.7-1 2.3-0.7 5.2 0.9 8.1l0.4 0.7-0.4 0.7c-1.6 2.9-1.9 5.8-0.9 8.1 1 2.2 3.1 3.9 6.1 4.7l0.8 0.2 0.2 0.8c0.7 2.7 2.1 4.7 4 5.8l0.8 0.4v23.4z"/> <rect class="st4" x="147.5" y="51.9" width="121.1" height="19.4"/><path class="st2" d="m58.2 16.1c0.6 2.6 2.4 3.9 5 3.9 1 0 2.3-0.6 2.3-1.8 0-2.9-9.3-1.2-9.3-6.5 0-2.9 2.8-4.4 5.4-4.4 1.6 0 3.1 0.6 4.3 1.4l0.6-1h1.6v4.9h-1.9c-0.7-2.1-2.1-3.2-4.4-3.2-1 0-2.2 0.4-2.2 1.6 0 2.3 9.3 1.2 9.3 6.6 0 3.1-2.6 4.4-5.4 4.4-1.8 0-3.5-0.3-4.9-1.5l-0.6 1h-2v-5.4h2.2z"/> <path class="st2" d="m75.5 10.1c1.2-2 2.7-2.9 4.7-2.9 4.1 0 5.8 3.7 5.8 7.3s-1.7 7.3-5.8 7.3c-2.3 0-3.9-1.4-4.6-2.5h-0.1v5.1c0 0.9 0.3 1.3 1.2 1.3h1.9v1.9h-9.3v-1.9h1.6c0.9 0 1.2-0.4 1.2-1.3v-13.5c0-0.9-0.3-1.3-1.2-1.3h-1.5v-1.9h6.2v2.4zm0.1 4.5c0 3.4 1.5 5 3.5 5 1.7 0 3-1.7 3-5 0-3.8-1.4-5-3-5-2.1-0.1-3.5 1.6-3.5 5z"/> <path class="st2" d="m87.2 21.5v-1.9h1.4c0.8 0 1.2-0.3 1.2-1.2v-7.5c0-0.9-0.4-1.2-1.2-1.2h-1.4v-2h6v10.7c0 0.9 0.4 1.2 1.2 1.2h1.4v1.9h-8.6zm3.9-19.9c1.1 0 2.1 0.9 2.1 2.1s-1 2.1-2.1 2.1-2.1-0.9-2.1-2.1 1-2.1 2.1-2.1z"/> <path class="st2" d="m109.6 15.8c-0.3 3.9-2.3 6.1-6.3 6.1-4.5 0-6.9-2.6-6.9-7.4 0-4.4 3.5-7.3 7.3-7.3 3.4 0 6.1 1.9 6.1 4.3 0 1.3-0.9 2.4-2.1 2.4-1 0-2.3-0.5-2.3-1.8 0-1.2 0.6-1.8 1.7-1.9-0.6-0.9-1.6-1.1-2.8-1.1-3.1 0-3.9 2.9-3.9 5.1s0.7 5.1 3.8 5.1c1.8 0 3-1.5 3.2-3.6h2.2z"/> <path class="st2" d="m110.8 7.7h8.5v1.9h-1.3c-0.5 0-0.9 0.2-0.9 0.6 0 0.2 0.1 0.5 0.3 0.8l2.7 6.2h0.1l2.4-6c0.1-0.4 0.3-0.7 0.3-1 0-0.4-0.4-0.7-0.9-0.7h-1.3v-1.8h7.1v1.9c-1.1 0-1.9 0.2-2.4 1.3l-4.8 11.3c-1.6 3.9-3.2 5.4-5.9 5.4-2 0-3.9-1.2-3.9-3.6 0-1.4 0.8-2.6 2.3-2.6 1.1 0 2 0.8 2 1.9 0 0.9-0.6 1.7-1.4 1.7h-0.8c0.3 0.6 0.9 0.7 1.4 0.7 1.8 0 2.6-0.9 3.2-2.2l1-2.2-5-10.7c-0.3-0.8-1.2-1.1-2.7-1.1v-1.8z"/> <path class="st2" d="m60.7 34.1c0.9-1.3 2.4-2.3 4-2.3 4.3 0 6 3.6 6 7 0 4.9-2.1 7.7-6.1 7.7-1.8 0-3-0.4-4.4-2l-1.1 1.6h-1.9v-16.4c0-0.9-0.4-1.2-1.2-1.2h-1.1v-1.9h5.8v7.5zm3 0.1c-2 0-3 1.6-3 5 0 3.6 0.6 5 3 5 2 0 3-1.6 3-5 0.1-3.6-0.6-5-3-5z"/> <path class="st2" d="m78 34.5c1.2-1.8 2.2-2.7 3.7-2.7 1.9 0 3.6 1.1 3.6 3.2 0 1.3-0.8 2.5-2.2 2.5-1.2 0-2.1-0.7-2.1-1.9 0-1.1 0.9-1.7 1.9-1.8-0.3-0.4-0.8-0.4-1.2-0.4-2.4 0-3.7 2.4-3.7 4.5v5.1c0 0.9 0.4 1.2 1.2 1.2h1.9v1.9h-9.3v-1.9h1.6c0.8 0 1.2-0.3 1.2-1.2v-7.5c0-0.9-0.4-1.2-1.2-1.2h-1.6v-1.9h6.2v2.1z"/> <path class="st2" d="m93.8 31.9c4.4 0 7.6 2.7 7.6 7.3 0 4.7-3.2 7.3-7.6 7.3s-7.6-2.6-7.6-7.3 3.2-7.3 7.6-7.3zm0 12.7c2.4 0 3.6-1.9 3.6-5.4s-1.2-5.4-3.6-5.4-3.6 1.9-3.6 5.4 1.2 5.4 3.6 5.4z"/> <path class="st2" d="m115.9 40.4c-0.3 3.9-2.3 6.1-6.3 6.1-4.5 0-6.9-2.6-6.9-7.4 0-4.4 3.4-7.3 7.3-7.3 3.4 0 6.1 1.9 6.1 4.3 0 1.3-0.9 2.4-2.1 2.4-1 0-2.3-0.5-2.3-1.8 0-1.2 0.6-1.8 1.7-1.9-0.6-0.9-1.6-1.1-2.8-1.1-3.1 0-3.9 2.9-3.9 5.1s0.7 5.1 3.8 5.1c1.8 0 3-1.5 3.2-3.6h2.2z"/> <path class="st2" d="m130.5 40.4c-0.3 3.9-2.3 6.1-6.3 6.1-4.5 0-6.9-2.6-6.9-7.4 0-4.4 3.4-7.3 7.3-7.3 3.4 0 6.1 1.9 6.1 4.3 0 1.3-0.9 2.4-2.1 2.4-1 0-2.3-0.5-2.3-1.8 0-1.2 0.6-1.8 1.7-1.9-0.6-0.9-1.6-1.1-2.8-1.1-3.1 0-3.9 2.9-3.9 5.1s0.7 5.1 3.8 5.1c1.8 0 3-1.5 3.2-3.6h2.2z"/> <path class="st2" d="m139.4 31.9c4.4 0 7.6 2.7 7.6 7.3 0 4.7-3.2 7.3-7.6 7.3s-7.6-2.6-7.6-7.3 3.2-7.3 7.6-7.3zm0 12.7c2.4 0 3.6-1.9 3.6-5.4s-1.2-5.4-3.6-5.4-3.6 1.9-3.6 5.4 1.2 5.4 3.6 5.4z"/> <path class="st2" d="m147.5 46.1v-1.9h1.4c0.8 0 1.2-0.3 1.2-1.2v-13.3c0-0.9-0.4-1.2-1.2-1.2h-1.4v-1.9h6.1v16.4c0 0.9 0.4 1.2 1.2 1.2h1.4v1.9h-8.7z"/> <path class="st2" d="m157.4 46.1v-1.9h1.4c0.8 0 1.2-0.3 1.2-1.2v-7.5c0-0.9-0.4-1.2-1.2-1.2h-1.4v-1.9h6v10.6c0 0.9 0.4 1.2 1.2 1.2h1.4v1.9h-8.6zm3.8-19.9c1.2 0 2.1 0.9 2.1 2.1s-1 2.1-2.1 2.1-2.1-0.9-2.1-2.1 1-2.1 2.1-2.1z"/> <path class="st2" d="m62 57.2c1.2-1.9 2.4-2.9 4.7-2.9 1.9 0 3.4 0.9 3.9 2.8 1.3-1.7 2.7-2.8 4.9-2.8s4.1 1.5 4.1 4.2v7c0 0.9 0.4 1.2 1.2 1.2h1.6v1.9h-8.2v-1.9h0.8c0.8 0 1.2-0.3 1.2-1.2v-7c0-1.2-0.9-1.9-2.1-1.9-1.7 0-3.3 1.6-3.3 3.5v5.3c0 0.9 0.4 1.2 1.2 1.2h0.8v1.9h-7.5v-1.9h0.9c0.8 0 1.2-0.3 1.2-1.2v-6.2c0-1.5-0.3-2.6-2.1-2.6s-3.3 1.7-3.3 3.5v5.3c0 0.9 0.4 1.2 1.2 1.2h0.8v1.9h-8.4v-1.9h1.6c0.8 0 1.2-0.3 1.2-1.2v-7.5c0-0.9-0.4-1.2-1.2-1.2h-1.6v-1.9h6.4v2.4z"/> <path class="st2" d="m86.9 61.9c-0.1 2.3 0.6 4.8 3.4 4.8 2.1 0 3.2-1.1 3.6-3.1h2.4c-0.4 3.4-2.4 5.3-6.3 5.3-4.6 0-7-2.6-7-7.3 0-4.3 2.8-7.3 6.8-7.3 4.8 0 6.9 4.3 6.5 7.7h-9.4zm5.5-1.9c0-1.9-0.6-3.7-2.7-3.7-2 0-2.7 1.8-2.8 3.7h5.5z"/> <path class="st2" d="m108.2 66.1c-1.2 2-2.7 2.9-4.7 2.9-4.1 0-5.8-3.7-5.8-7.3s2.2-7.3 5.8-7.3c2.3 0 3.9 1.4 4.6 2.5h0.1v-4.6c0-0.9-0.3-1.3-1.2-1.3h-1.8v-1.9h6.5v16.3c0 0.9 0.3 1.3 1.2 1.3h1.5v1.9h-6.2v-2.5zm-3.5 0.5c2 0 3.5-1.6 3.5-5.2 0-3.2-1.6-4.9-3.5-4.9-2 0-3 1.6-3 5-0.1 3.5 1 5.1 3 5.1z"/> <path class="st2" d="m115.6 68.5v-1.9h1.4c0.8 0 1.2-0.3 1.2-1.2v-7.5c0-0.9-0.3-1.2-1.2-1.2h-1.4v-1.9h6v10.7c0 0.9 0.4 1.2 1.2 1.2h1.4v1.9h-8.6zm3.9-19.9c1.2 0 2.1 0.9 2.1 2.1s-1 2.1-2.1 2.1-2.1-0.9-2.1-2.1c-0.1-1.2 0.9-2.1 2.1-2.1z"/> <path class="st2" d="m141 63.4v0.9c0 3.3-1.3 4.7-3.8 4.7-1.5 0-2.7-0.6-3-2.2-1.1 1.7-3 2.2-4.8 2.2-2.3 0-4.1-1.1-4.1-3.7 0-5.7 8.8-2.9 8.8-7.1 0-1.9-1.6-2.2-3.2-2.2-0.8 0-2.2 0.3-2.7 1 1.1-0.1 1.9 0.3 1.9 1.5 0 1.3-0.9 1.7-2.1 1.7-1.3 0-2.1-1-2.1-2.2 0-3 3.6-3.7 5.9-3.7 4 0 5.7 1.8 5.7 4.3v7.2c0 0.6 0.3 1 0.7 1s0.8-0.4 0.8-2.2v-1.1h2zm-6.9-2.2-3.1 1.4c-0.9 0.4-1.8 0.9-1.8 2.2 0 1.2 0.6 1.9 1.8 1.9 2 0 3.1-1.7 3.1-3.6v-1.9z"/><path class="st2" d="m151.8 56h4c2 0 3.5 0.9 3.5 2.9 0 1.3-0.8 2.1-2 2.5 1.4 0.1 2.5 1.3 2.5 2.8 0 2-1.8 3.2-4 3.2h-3.9v-11.4zm1.6 4.8h2.1c1.2 0 2.1-0.5 2.1-1.7 0-0.9-0.6-1.7-1.8-1.7h-2.4v3.4zm0 5.3h2.3c0.9 0 2.5-0.3 2.5-1.9 0-1.4-1-2-2.4-2h-2.3v3.9z"/> <path class="st2" d="m163 64.2c0 1.3 1.2 2.2 2.6 2.2 0.9 0 1.5-0.4 2.1-1.1l1.1 0.8c-0.8 1-1.9 1.6-3.4 1.6-2.4 0-3.9-1.7-3.9-4s1.7-4 3.9-4c2.7 0 3.7 2.1 3.7 4v0.5h-6.1zm4.6-1.2c0-1.3-0.7-2.2-2.2-2.2-1.4 0-2.4 1.2-2.4 2.2h4.6z"/> <path class="st2" d="m175.8 59.8h1.4v1.2c0.1-0.5 1.1-1.4 2.5-1.4 1.1 0 1.9 0.5 2.4 1.4 0.5-0.9 1.5-1.4 2.4-1.4 2.4 0 2.9 1.7 2.9 3.4v4.4h-1.5v-4.3c0-1.2-0.2-2.2-1.6-2.2s-2 1-2 2.3v4.2h-1.4v-4c0-1.5-0.2-2.5-1.6-2.5-1 0-2 0.8-2 2.5v4h-1.5v-7.6z"/> <path class="st2" d="m191 64.2c0 1.3 1.2 2.2 2.6 2.2 0.9 0 1.5-0.4 2.1-1.1l1.1 0.8c-0.8 1-1.9 1.6-3.4 1.6-2.4 0-3.9-1.7-3.9-4s1.7-4 3.9-4c2.7 0 3.7 2.1 3.7 4v0.5h-6.1zm4.6-1.2c0-1.3-0.7-2.2-2.2-2.2-1.4 0-2.4 1.2-2.4 2.2h4.6z"/> <path class="st2" d="m199.2 59.8h1.4v1.2c0.1-0.5 1.1-1.4 2.4-1.4 1.1 0 1.9 0.5 2.4 1.4 0.5-0.9 1.5-1.4 2.4-1.4 2.4 0 2.9 1.7 2.9 3.4v4.4h-1.5v-4.3c0-1.2-0.2-2.2-1.6-2.2s-1.9 1-1.9 2.3v4.2h-1.5v-4c0-1.5-0.2-2.5-1.6-2.5-1 0-2 0.8-2 2.5v4h-1.4v-7.6z"/> <path class="st2" d="m216.9 59.6c2.3 0 4.1 1.8 4.1 4s-1.8 4-4.1 4-4.1-1.8-4.1-4 1.8-4 4.1-4zm0 6.7c1.5 0 2.5-1.1 2.5-2.7 0-1.5-1-2.7-2.5-2.7s-2.5 1.1-2.5 2.7c-0.1 1.6 0.9 2.7 2.5 2.7z"/> <path class="st2" d="m223 59.8h1.5v1.2c0.4-0.8 1.3-1.4 2.3-1.4 0.2 0 0.5 0 0.6 0.1l-0.1 1.6c-0.2-0.1-0.5-0.1-0.7-0.1-1.4 0-2.2 0.8-2.2 2.5v3.8h-1.4v-7.7z"/> <path class="st2" d="m229.1 60.8c0.8-0.8 2-1.1 3-1.1 2.3 0 3.2 1.2 3.2 2.5v3.9c0 0.5 0 1 0.1 1.4h-1.3v-1.2c-0.6 1-1.5 1.4-2.7 1.4-1.4 0-2.6-0.8-2.6-2.3 0-2 1.9-2.6 4.2-2.6h1.1v-0.3c0-0.8-0.6-1.6-1.8-1.6-1.1 0-1.6 0.5-2.2 0.9l-1-1zm4.1 3c-1.4 0-3 0.2-3 1.5 0 0.9 0.6 1.2 1.6 1.2 1.6 0 2.2-1.2 2.2-2.2v-0.5h-0.8z"/> <path class="st2" d="m237.8 55.3h1.5v5.6c0.5-0.8 1.6-1.3 2.7-1.3 2.4 0 3.9 1.7 3.9 4s-1.5 4-3.9 4c-1 0-2.1-0.5-2.7-1.3v1.1h-1.5v-12.1zm6.5 8.3c0-1.5-1-2.7-2.5-2.7s-2.5 1.1-2.5 2.7c0 1.5 1 2.7 2.5 2.7s2.5-1.1 2.5-2.7z"/> <path class="st2" d="M248,55.3h1.5v12.2H248V55.3z"/> <path class="st2" d="m253.1 64.2c0 1.3 1.2 2.2 2.6 2.2 0.9 0 1.5-0.4 2.1-1.1l1.1 0.8c-0.8 1-1.9 1.6-3.4 1.6-2.4 0-3.9-1.7-3.9-4s1.7-4 3.9-4c2.7 0 3.7 2.1 3.7 4v0.5h-6.1zm4.6-1.2c0-1.3-0.7-2.2-2.2-2.2-1.4 0-2.4 1.2-2.4 2.2h4.6z"/> <path class="st2" d="m261 66.5c0-0.6 0.5-1.1 1.1-1.1s1.1 0.5 1.1 1.1-0.5 1.1-1.1 1.1-1.1-0.5-1.1-1.1z"/></svg>
+            </a>
+            <hr>
+            <div class="sbm">© Spicy Broccoli Media | Graphic Design Sydney</div>
+            <div class="menu-footer-nav-container">
+                <div class="menu-footer-navigation-container"><ul id="menu-footer-navigation" class="menu"><li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="https://www.spicybroccoli.com/contact/">Contact</a></li>
+<li id="menu-item-8445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8445"><a href="https://www.spicybroccoli.com/why-choose-us/">Why choose us?</a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="https://www.spicybroccoli.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-4932" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4932"><a href="https://www.spicybroccoli.com/copyright-info/">Copyright Info</a></li>
+<li id="menu-item-3893" class="scrolltotop menu-item menu-item-type-custom menu-item-object-custom menu-item-3893"><a href="#">Only monkeys look in corners</a></li>
+</ul></div>            </div>
+        </div>
+    </div><!-- div#footer-section -->
+</footer>
+		
+		<script>
+			document.addEventListener( 'wpcf7mailsent', function( event ) {
+				if ( 9122 == event.detail.contactFormId ){
+					jQuery('body').append('<a id="cf7fd-attachment-link" href="https://www.spicybroccoli.com/wp-content/uploads/2021/01/SpicyBroccoli-Hosting_Maintenance_SEO_Packages.pdf" download="SpicyBroccoli - Hosting Maintenance SEO Packages"></a>');
+					jQuery('#cf7fd-attachment-link')[0].click();
+
+					setTimeout(function(){
+						jQuery('#cf7fd-attachment-link').remove();
+					},2000);
+				}
+
+
+			}, false );
+		</script>
+
+
+
+
+
+
+		
+			<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			js = d.createElement(s); js.id = id;
+			js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js#xfbml=1&version=v6.0&autoLogAppEvents=1'
+			fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));</script>
+			<div class="fb-customerchat" attribution="wordpress" attribution_version="2.3" page_id="176819646353"></div>
+
+			<script>window.cookieconsent.initialise({palette:{popup:{background:"rgba(108, 110, 113, 0.9)"},button:{background:"#ff1919"}},
+"content": {
+    "href": "https://www.spicybroccoli.com/privacy-policy/"
+  }});</script><!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://www.spicybroccoli.com/wp-admin/admin-ajax.php";
+</script>
+<script type='text/javascript' id='eio-lazy-load-js-before'>
+var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":0,"threshold":0};
+</script>
+<script type='text/javascript' src='https://www.spicybroccoli.com/wp-content/plugins/ewww-image-optimizer/includes/lazysizes.min.js?ver=702' id='eio-lazy-load-js'></script>
+<script type='text/javascript' id='site_tracking-js-extra'>
+/* <![CDATA[ */
+var php_data = {"ac_settings":{"tracking_actid":649747965,"site_tracking_default":1,"site_tracking":1},"user_email":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.spicybroccoli.com/wp-content/plugins/activecampaign-subscription-forms/site_tracking.js?ver=6.2.2' id='site_tracking-js'></script>
+<script type='text/javascript' id='wp-google-reviews_plublic_comb-js-extra'>
+/* <![CDATA[ */
+var wprevpublicjs_script_vars = {"wpfb_nonce":"de6251f47e","wpfb_ajaxurl":"https:\/\/www.spicybroccoli.com\/wp-admin\/admin-ajax.php","wprevpluginsurl":"https:\/\/www.spicybroccoli.com\/wp-content\/plugins\/wp-google-places-review-slider"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.spicybroccoli.com/wp-content/plugins/wp-google-places-review-slider/public/js/wprev-public-com-min.js?ver=12.4' id='wp-google-reviews_plublic_comb-js'></script>
+<script type='text/javascript' src='https://www.spicybroccoli.com/wp-content/themes/spicybroccoli/js/app.js?ver=1.0.1' id='app-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6Lfs-2oUAAAAAKAghcQHzNjgCcK_fdbXO9lGhSHJ&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' src='https://www.spicybroccoli.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
+<script type='text/javascript' src='https://www.spicybroccoli.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://www.spicybroccoli.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6Lfs-2oUAAAAAKAghcQHzNjgCcK_fdbXO9lGhSHJ","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.spicybroccoli.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.7.7' id='wpcf7-recaptcha-js'></script>
+<script>	new mlPushMenu( document.getElementById( 'mp-menu' ), document.getElementById( 'trigger' ) );</script>
+<div class="sbm-loader" id="sbm-loader-wrap" style="display:none;">
+    <div class="sbm-loader-wrapper">
+        <div class="logo-loader">
+            <picture><source   type="image/webp" data-srcset="https://www.spicybroccoli.com/wp-content/uploads/2017/07/SpicyBroccoliMedia_logo-icon-205x205.png.webp"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM0AAADNAQAAAAAzx8nEAAAAAnRSTlMAAHaTzTgAAAAcSURBVFjD7cExAQAAAMKg9U9tDB+gAAAAAAA4GBWfAAFv41rJAAAAAElFTkSuQmCC" alt="logo" data-eio="p" data-src="https://www.spicybroccoli.com/wp-content/uploads/2017/07/SpicyBroccoliMedia_logo-icon-205x205.png" decoding="async" class="lazyload"><noscript><img src="https://www.spicybroccoli.com/wp-content/uploads/2017/07/SpicyBroccoliMedia_logo-icon-205x205.png" alt="logo" data-eio="l"></noscript></picture>
+        </div>
+        <div class="spinner">
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
+        </div>
+    </div>
+</div>
+
+<div id="google-business-reviews-rating" class="google-business-reviews-rating gmbrr badge tiny fill link" data-href="https://search.google.com/local/reviews?placeid=ChIJqUjS58OrEmsRJhYDyCIcbao">
+	<p class="rating"><span class="attribution google-icon" title="Powered by Google"></span> <span class="number">5.0</span> <span class="all-stars animate"><span class="star"></span><span class="star"></span><span class="star"></span><span class="star"></span><span class="star"></span></span> <span class="count">52 reviews</span></p>
+</div>
+
+
+</body>
+
+</html>
+
+<!-- Page uncached by LiteSpeed Cache 5.4 on 2023-08-14 17:28:43 -->
